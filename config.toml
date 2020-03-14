@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://nervous-leakey-6f6411.netlify.com/"
+baseURL = "https://jung.tech/"
 title = "Thomas | JUNG Tech"
 theme = "somrat"
 # disable language

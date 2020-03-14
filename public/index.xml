@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas | JUNG Tech</title>
-    <link>https://nervous-leakey-6f6411.netlify.com/</link>
+    <link>https://jung.tech/</link>
     <description>Recent content on Thomas | JUNG Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 jung.tech</copyright>
     
-	<atom:link href="https://nervous-leakey-6f6411.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jung.tech/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
