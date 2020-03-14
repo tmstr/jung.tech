@@ -3,7 +3,7 @@ baseURL = "https://nervous-leakey-6f6411.netlify.com/"
 title = "Thomas | JUNG Tech"
 theme = "somrat"
 # disable language
-disableLanguages = ["Languages.Fr"] # desable language from here
+disableLanguages = ["fr"] # desable language from here
 
 ############################# Plugins ##############################
 
@@ -44,6 +44,7 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/owl-carousel/owl.carousel.min.js"
 
 
+
 ############################## navigation ###############################
 
 # main menu
@@ -62,15 +63,15 @@ name = "Service"
 URL = "#service"
 weight = 3
 
-# [[menu.main]]
-# name = "Portfolio"
-# URL = "#portfolio"
-# weight = 4
+[[menu.main]]
+name = "Portfolio"
+URL = "#portfolio"
+weight = 4
 
-# [[menu.main]]
-# name = "Testimonial"
-# URL = "#testimonial"
-# weight = 5
+[[menu.main]]
+name = "Testimonial"
+URL = "#testimonial"
+weight = 5
 
 [[menu.main]]
 name = "Contact"
@@ -125,15 +126,15 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "&copy; 2020 jung.tech"
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
+#[Languages.fr]
+#languageName = "Fr"
+#languageCode = "fr-fr"
+#contentDir = "content/french"
+#weight = 2
+#home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+#copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
