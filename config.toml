@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://nervous-leakey-6f6411.netlify.com/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["Languages.Fr"] # desable language from here
 
 ############################# Plugins ##############################
 
